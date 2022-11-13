@@ -1,5 +1,5 @@
 import { createPool } from "mysql2";
-import { DB_HOST, DB_USER, DB_PASSWORD, DB_NAME, DB_PORT } from "./config";
+import { DB_HOST, DB_USER, DB_PASSWORD, DB_NAME, DB_PORT } from "./config.js";
 
 
 
